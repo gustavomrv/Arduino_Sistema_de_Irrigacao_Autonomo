@@ -28,4 +28,4 @@
 
 ## Circuito Completo
 
-<img src="circuit.png" width="325px" align="right">
+<img src="circuit.png" width="1000" align="center">
